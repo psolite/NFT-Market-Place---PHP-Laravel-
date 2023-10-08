@@ -1,0 +1,37 @@
+{
+    "id": 1027,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "slug": "ethereum",
+    "num_market_pairs": 7354,
+    "date_added": "2015-08-07T00:00:00.000Z",
+   
+    "max_supply": null,
+    "circulating_supply": 120219494.8060382,
+    "total_supply": 120219494.8060382,
+    "infinite_supply": true,
+    "platform": null,
+    "cmc_rank": 2,
+    "self_reported_circulating_supply": null,
+    "self_reported_market_cap": null,
+    "tvl_ratio": null,
+    "last_updated": "2023-09-09T19:37:00.000Z",
+    "quote": {
+        "USD": {
+            "price": 1633.756068665705,
+            "volume_24h": 2328419099.395082,
+            "volume_change_24h": -58.0067,
+            "percent_change_1h": 0.08420781,
+            "percent_change_24h": 0.04222498,
+            "percent_change_7d": -2.906e-5,
+            "percent_change_30d": -11.54011677,
+            "percent_change_60d": -12.80913482,
+            "percent_change_90d": -7.43587904,
+            "market_cap": 196409329211.2901,
+            "market_cap_dominance": 18.8306,
+            "fully_diluted_market_cap": 196409329211.29,
+            "tvl": null,
+            "last_updated": "2023-09-09T19:37:00.000Z"
+        }
+    }
+}
